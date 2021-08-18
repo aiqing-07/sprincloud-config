@@ -1,2 +1,3 @@
 config:
-  info: "config-test.yml 演示测试环境！"
+  info: "config-test.yml no this chinese character"
+  msg: "演示测试环境！"
